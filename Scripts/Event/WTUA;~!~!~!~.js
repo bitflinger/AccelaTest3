@@ -1,0 +1,2 @@
+﻿showMessage = true;
+comment('hello');
